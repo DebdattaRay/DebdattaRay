@@ -1,5 +1,5 @@
 [![MasterHead](https://www.dlapiper.com/~/media/images/news/2018/programming_code_technology_computerwebsite_banner_432008923.jpg)](https://DebdattaRay.io)
-<h1 align="center">Hi 👋, I'm Debdatta Ray</h1>
+<h1 align="center">Hello There!!👋, I'm Debdatta Ray :)</h1>
 <h3 align="center">A passionate and curious frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
