@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debdatta Ray</h1>
 <h3 align="center">I Am An Engineering Student. I Am In My Final Year Of B.Tech. I Am A Front End Developer and a Data Science and DevOps Enthusiast. Besides that I Am A Procrastinator With A Perfectionist Complex Who Loves To Listen To Music And Watch Animes</h3>
 
-![497acecaa747cc8fb62768b55968c24d](https://github.com/DebdattaRay/DebdattaRay/assets/102537092/be62d731-4530-408e-8299-7d7aec4b9430) ![497acecaa747cc8fb62768b55968c24d](https://github.com/DebdattaRay/DebdattaRay/assets/102537092/f33064bd-865e-4fbc-8e07-f00cad2dca70)
+![497acecaa747cc8fb62768b55968c24d](https://github.com/DebdattaRay/DebdattaRay/assets/102537092/be62d731-4530-408e-8299-7d7aec4b9430) 
 
 
 
